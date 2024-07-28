@@ -4,12 +4,14 @@
 
 One of the most accurate and easiest bombing modes to use is Dive Toss.
 
-It requires no specific setup or planning and can hence also be used for targets
-of opportunity. It requires a direct line of sight.
+Dive toss only requires both the drag coeficient and dive angle to be
+entered into the WRCS, and line of sight. The default settings are 1.01 drag
+coeficient and a 45 degree dive, making them suitable to a dive attack at
+45 degrees with most mk80 series low-drag bombs.
 
 The pilot flies a dive attack on the target while the WSO obtains accurate
 target range information using the radar. Once the target is designated, the
-pilot simple holds down the Bomb Button and begins to gently pull out of the
+pilot simply holds down the Bomb Button and begins to gently pull out of the
 dive. Weapons automatically release at the right moment during the maneuver.
 
 ![Dive Toss 1](../../../../img/divetoss.jpg)
